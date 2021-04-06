@@ -1,0 +1,27 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{Selbstständigkeitserklärung}{II}{section*.1}%
+\contentsline {section}{Abbildungsverzeichnis}{IV}{section*.3}%
+\contentsline {section}{\numberline {1}Einführung in das Thema}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Einordnung in das Thema}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Leitfrage}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Ziel der Arbeit}{1}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Aufbau der Arbeit}{1}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Forschungsmethode}{2}{subsection.1.5}%
+\contentsline {section}{\numberline {2}Grundlagen zur Bearbeitung}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Inbound Marketing}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Outbound Marketing}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Web Scraping}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Data Wrangling}{6}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Wie werden Leads generiert ?}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Website}{7}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Formulare}{7}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Bereitstellung von Downloads}{7}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}CTA - Call to Action}{8}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.2}Landing-Page}{9}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Blog Artikel}{9}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Reviews und Selbstpromotion}{9}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Social Media}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Search Engine Optimation}{9}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Kickback und Follow-Up Emails}{9}{subsection.3.5}%
+\contentsline {section}{\numberline {4}RPA - Robotic Process Automation im Inbound Marketing}{9}{section.4}%
+\contentsline {section}{Literatur}{V}{section.4}%

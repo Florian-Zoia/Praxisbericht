@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Individuelle_Projektarbeit_Malte_Moeller.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: hc-de.bst
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+Database file #1: ./Literaturverzeichnis.bib
+Warning--empty journal in Datenbanken_verstehen
+Warning--empty publisher in Gogolla1994
+You've used 5 entries,
+            2786 wiz_defined-function locations,
+            637 strings with 5176 characters,
+and the built_in function-call counts, 1807 in all, are:
+= -- 160
+> -- 65
+< -- 6
++ -- 23
+- -- 18
+* -- 129
+:= -- 337
+add.period$ -- 8
+call.type$ -- 5
+change.case$ -- 28
+chr.to.int$ -- 8
+cite$ -- 7
+duplicate$ -- 90
+empty$ -- 155
+format.name$ -- 27
+if$ -- 364
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 9
+newline$ -- 22
+num.names$ -- 20
+pop$ -- 43
+preamble$ -- 1
+purify$ -- 26
+quote$ -- 0
+skip$ -- 76
+stack$ -- 0
+substring$ -- 57
+swap$ -- 15
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 33
+warning$ -- 2
+while$ -- 16
+width$ -- 0
+write$ -- 55
+(There were 2 warnings)

@@ -1,0 +1,23 @@
+\begin{thebibliography}{5}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Beratungsgesellschaft(2020)}]{Datenbanken_verstehen}
+Beratungsgesellschaft, Begerow (2020): Datenbanken Verstehen.
+
+\bibitem[{Geisler(2011)}]{Geisler2011}
+Geisler, Frank (2011): \emph{Datenbanken Grunlagen und Design}.
+\newblock Verlagsgruppe Hüthig Jehle Rehm GmbH.
+
+\bibitem[{Gogolla(1994)}]{Gogolla1994}
+Gogolla, Martin (1994): \emph{Grundlagen von Entity-Relationship-Modellen}.
+
+\bibitem[{Matthiessen und Unterstein(2007)}]{matthiessen_relationale_2007}
+Matthiessen, Günter und Michael Unterstein (Dez. 2007): \emph{Relationale
+  Datenbanken und Standard-{SQL}}.
+\newblock Addison-Wesley Verlag, München u.a., 4. Aufl.
+
+\bibitem[{Schicker(2017)}]{Schicker2017}
+Schicker, Edwin (2017): \emph{Datenbankendesign}.
+\newblock Springer Verlag.
+
+\end{thebibliography}
