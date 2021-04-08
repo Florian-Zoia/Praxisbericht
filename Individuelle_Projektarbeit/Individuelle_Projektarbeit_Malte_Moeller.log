@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.31)  6 APR 2021 10:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.31)  7 APR 2021 14:43
 entering extended mode
 **./Individuelle_Projektarbeit_Malte_Moeller.tex
 (Individuelle_Projektarbeit_Malte_Moeller.tex
@@ -1639,7 +1639,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--30
  []
 
 [4] [5 <./Grafiken2/Outbound_Marketing.JPG>]) [6]
-(Abschnitte/EvaluationProblemstellung.tex [7] [8] [9]) [10] [11]
+(Abschnitte/EvaluationProblemstellung.tex [7] [8] [9] [10] [11]) [12]
 (Abschnitte/Lösungsansätze.tex) (Abschnitte/Empfehlungen.tex)
 (Individuelle_Projektarbeit_Malte_Moeller.bbl) [5]
 
@@ -1650,11 +1650,11 @@ LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
 (Individuelle_Projektarbeit_Malte_Moeller.aux)
 Package rerunfilecheck Info: File `Individuelle_Projektarbeit_Malte_Moeller.out
 ' has not changed.
-(rerunfilecheck)             Checksum: 82CFA8C6B826F23E78B5F418E993CC0F;4133.
+(rerunfilecheck)             Checksum: 7570DF7FE6BC024164766919D2A4A68F;4153.
  ) 
 Here is how much of TeX's memory you used:
- 31379 strings out of 479334
- 603632 string characters out of 2854234
+ 31380 strings out of 479334
+ 603659 string characters out of 2854234
  931158 words of memory out of 3000000
  48065 multiletter control sequences out of 15000+200000
  450932 words of font info for 116 fonts, out of 3000000 for 9000
@@ -1667,10 +1667,10 @@ ts/rtxr.pfb><C:/Users/FlorianZoia/AppData/Local/Programs/MiKTeX/fonts/type1/urw
 e1/urw/times/utmr8a.pfb><C:/Users/FlorianZoia/AppData/Local/Programs/MiKTeX/fon
 ts/type1/urw/times/utmr8a.pfb><C:/Users/FlorianZoia/AppData/Local/Programs/MiKT
 eX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Individuelle_Projektarbeit_Malte_Moeller.pdf (16 pages, 20601
-5 bytes).
+Output written on Individuelle_Projektarbeit_Malte_Moeller.pdf (17 pages, 21013
+2 bytes).
 PDF statistics:
- 278 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
+ 282 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
  332 words of extra memory for PDF output out of 10000 (max. 10000000)
 
